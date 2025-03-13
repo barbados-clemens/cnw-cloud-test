@@ -12,8 +12,6 @@
     ],
     "sharedGlobals": ["{workspaceRoot}/.github/workflows/ci.yml"]
   },
-  "nxCloudUrl": "https://staging.nx.app",
-  "nxCloudId": "67d2e3c60f91c15ee11bc988",
   "plugins": [
     {
       "plugin": "@nx/eslint/plugin",
